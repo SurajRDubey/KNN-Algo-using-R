@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1603898979758.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "746988433",
+    "id" : "B2060953",
+    "lastKnownWriteTime" : 1603900803,
+    "last_content_update" : 1603900803061,
+    "path" : "E:/New folder (2)/KnnFinal/finalCode.R",
+    "project_path" : "finalCode.R",
+    "properties" : {
+        "cursorPosition" : "29,22",
+        "scrollLine" : "15",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
